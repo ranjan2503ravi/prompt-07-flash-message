@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.contener{
+    width: 60%;
+    height: 80%;
+    background-color:#E3E4E9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius:20px ;
+}
+.box1{
+    width: 60%;
+    height: 80%;
+    background-color: #00A96B;
+    color: white;
+    
+}
+.box2{
+    width: 60%;
+    height: 80%;
+    background-color: #FFFFFF;
+}
+.icon{
+   display: flex;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.icon i{
+    margin-left: 220px;
+    font-size: 20px;
+}
+.box3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 0, 255);
+    margin-left: 145px;
+    margin-top: 50px;
+    border-radius: 50%;
+    background-image: url(b.avif);
+    background-position: center;
+    background-size: cover;
+}
+.first{
+    margin-left: 150px;
+}
+.box4{
+    display: flex;
+    margin-top: 80px;
+    margin-left: 150px;
+}
+.box4 i{
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size: 25px;
+}
+.box4 p{
+    font-size: 20px;
+}
+.box2 i{
+    margin-left: 350px;
+    margin-top: 50px;
+    color: rgba(0, 0, 0, 0.527);
+    font-size: 25px;
+}
+.box5{
+    width: 100px;
+    height: 100px;
+    background-color: #00A96B;
+    background-image: url(ayoI-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+    position: absolute;
+    top: 40%;
+    left: 60%;
+}
+.d{
+    margin-top: 40%;
+    margin-left: 23%;
+    color: rgba(0, 0, 0, 0.658);
+}
+.bo i{
+   margin-left: 150px; 
+}
